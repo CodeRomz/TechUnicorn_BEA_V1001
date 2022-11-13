@@ -1,0 +1,7 @@
+# JWT Sources:
+# Beck Brace
+# Twitter: Bek Brace
+# Instagram: Bek Brace
+# Fast Api and JWT
+# https://github.com/BekBrace/FASTAPI-and-JWT-Authentication
+
